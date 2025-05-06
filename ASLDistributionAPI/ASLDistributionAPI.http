@@ -1,0 +1,6 @@
+@ASLDistributionAPI_HostAddress = http://localhost:5247
+
+GET {{ASLDistributionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
